@@ -2,8 +2,12 @@
 
 <h4>The aim of the project was to analyze the dataset and create an ML model that would predict the fare for the flight. We have used Python Libraries for data analysis and model creation (backend) and HTML and CSS for creating Web UI for the project.</h4>
 
+<<<<<<< HEAD
 <h4>You can see and use our project live on : https://credit-card-default1793.herokuapp.com/
 /</h4>
+=======
+<h4>You can see and use our project live on :https://credit-card-default1793.herokuapp.com/ /</h4>
+>>>>>>> edd3b0f63a5680155a98f7c36a40a2e22c8fbd5e
 
 <br>
 
