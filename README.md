@@ -6,8 +6,6 @@
 <h4>You can see and use our project live on : https://credit-card-default1793.herokuapp.com/
 /</h4>
 =======
-<h4>You can see and use our project live on :https://credit-card-default1793.herokuapp.com/ /</h4>
->>>>>>> edd3b0f63a5680155a98f7c36a40a2e22c8fbd5e
 
 <br>
 
