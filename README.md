@@ -1,10 +1,10 @@
 <h1>Credit Card Default Prediction</h1>
 
-<h4>The aim of the project was to analyze the dataset and create an ML model that would predict the fare for the flight. We have used Python Libraries for data analysis and model creation (backend) and HTML and CSS for creating Web UI for the project.</h4>
+<h4>The aim of the project is to analyze the dataset and create an ML model that would predict the Credi Card defaulter. We have used Python Libraries for data analysis and model creation (backend) and HTML and CSS for creating Web UI for the project.</h4>
 
 <<<<<<< HEAD
 <h4>You can see and use our project live on : https://credit-card-default1793.herokuapp.com/
-/</h4>
+</h4>
 =======
 
 <br>
